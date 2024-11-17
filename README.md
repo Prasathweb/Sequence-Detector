@@ -5,7 +5,7 @@ To design and simulate a sequence detector using both Moore and Mealy state mach
 ## Apparatus Required
 Vivado 2023.1 or equivalent Verilog simulation tool.
 Computer system with a suitable operating system.
-Procedure
+## Procedure
 Launch Vivado 2023.1:
 
 Open Vivado and create a new project.
